@@ -2,6 +2,8 @@
 layout: default
 ---
 
+Looking for my resumé? <a href="https://www.linkedin.com/in/simradhusain/" target="_blank">Please click here</a>.
+
 <table>
     <tr>
         <th>Links</th>
