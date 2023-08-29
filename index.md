@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Looking for my resumé? <a href="https://www.linkedin.com/in/simradhusain/" target="_blank">Please click here</a>.
+## Looking for my resumé? <a href="https://www.linkedin.com/in/simradhusain/" target="_blank">Please click here</a>.
 
 <table>
     <tr>
@@ -19,7 +19,7 @@ Looking for my resumé? <a href="https://www.linkedin.com/in/simradhusain/" targ
     </tr>
     <tr>
         <td><a href="https://webmail.kth.se/" target="_blank">KTH Mail</a></td>
-        <td>Access KTH mailbox.</td>
+        <td>KTH Mailbox - Can send mail from @kth.se address from here.</td>
     </tr>
     <tr>
         <td><a href="https://apps.lib.kth.se/mrbsgrupprum/day.php?area=1" target="_blank">KTH Group room</a></td>
@@ -27,14 +27,14 @@ Looking for my resumé? <a href="https://www.linkedin.com/in/simradhusain/" targ
     </tr>
     <tr>
         <td><a href="https://account.proton.me/login" target="_blank">Proton</a></td>
-        <td>Files, Calendar, VPN &amp; mail.</td>
+        <td>Files, Calendar, VPN &amp; Mail.</td>
     </tr>
     <tr>
         <td><a href="https://app.simplelogin.io/auth/login" target="_blank">SimpleLogin</a></td>
         <td>Manage disposable mail addresses.</td>
     </tr>
     <tr>
-        <td><a href="https://intra.kth.se/it/programvara-o-system/programvara/installera/download/kth-software-download-1.571781" target="_blank">KTH Programvara</a></td>
+        <td><a href="https://intra.kth.se/it/programvara-o-system/programvara/installera/download/kth-software-download-1.571781" target="_blank">KTH Software</a></td>
         <td>Software available to KTH students (Word, Matlab, etc.)</td>
     </tr>
 </table>
