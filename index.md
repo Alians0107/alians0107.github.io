@@ -18,7 +18,7 @@ layout: default
         <td>Course page.</td>
     </tr>
     <tr>
-        <td><a href="https://www.kth.se/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776" target="_blank">Omregistrera kurs KTH</a></td>
+        <td><a href="https://www.kth.se/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776" target="_blank">KTH Omregistrera kurs</a></td>
         <td>Omregistrera på KTH-kurser för att få läsa dem igen, ifall ej godkänd.</td>
     </tr>
     </tr>
