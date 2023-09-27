@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Looking for my resumé? <a href="https://www.linkedin.com/in/simradhusain/" target="_blank">Please click here</a>.
+#### Need to get in touch with me? <a href="mailto:webcontact.dorsal826@8shield.net?subject=husain.se contact form" target="_blank">Please click here</a>.
 
 <table>
     <tr>
