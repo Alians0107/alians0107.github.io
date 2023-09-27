@@ -21,9 +21,8 @@ layout: default
         <td><a href="https://www.kth.se/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776" target="_blank">KTH Omregistrera kurs</a></td>
         <td>Omregistrera på KTH-kurser för att få läsa dem igen, ifall ej godkänd.</td>
     </tr>
-    </tr>
-        <tr>
-        <td><a href="https://www.kth.se/student/studier/val/valja-kurs-1.316312" target="_blank">KTH kursanmälan inom program</a></td>
+    <tr>
+        <td><a href="https://www.kth.se/student/studier/val/valja-kurs-1.316312" target="_blank">KTH kursanmälan</a></td>
         <td>Anmäl till kurser inom program för att få läsa dem inför nästa period.</td>
     </tr>
     <tr>
