@@ -17,11 +17,11 @@ layout: default
         <td><a href="https://canvas.kth.se/" target="_blank">Canvas</a></td>
         <td>Course page.</td>
     </tr>
-        <tr>
+    <tr>
         <td><a href="https://www.kth.se/student/studier/kurs/kursregistrering/omregistrering-pa-kurs-1.1142776" target="_blank">Omregistrera kurs KTH</a></td>
         <td>Omregistrera på KTH-kurser för att få läsa dem igen, ifall ej godkänd.</td>
     </tr>
-        </tr>
+    </tr>
         <tr>
         <td><a href="https://www.kth.se/student/studier/val/valja-kurs-1.316312" target="_blank">KTH kursanmälan inom program</a></td>
         <td>Anmäl till kurser inom program för att få läsa dem inför nästa period.</td>
